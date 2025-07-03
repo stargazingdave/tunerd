@@ -19,7 +19,7 @@ TunerD helps you tune your guitar quickly and accurately using your phone's micr
 
 TunerD uses your microphone **only** to detect pitch in real-time while tuning.  
 **No audio is recorded, stored, or sent anywhere.**  
-We do **not collect or share any personal data**.
+I do **not collect or share any personal data**.
 
 ---
 
